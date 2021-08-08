@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samarth-sangam](https://github.com/samarth-sangam)
 
+- 💬 My portfolio website is now [avaliable](https://samarth-sangam.github.io/). Kindly have a look. More than 10+ hours work is dedicated for the portfolio.
+
 - 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **samarthssangam@gmail.com**
