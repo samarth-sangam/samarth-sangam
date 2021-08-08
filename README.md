@@ -9,7 +9,7 @@
 
 - 💬 My portfolio website is now [avaliable](https://samarth-sangam.github.io/). Kindly have a look. More than 10+ hours work is dedicated for the portfolio.
 
-- 💬 Ask me about **React.js, Node.js**
+- 📁 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **samarthssangam@gmail.com**
 
