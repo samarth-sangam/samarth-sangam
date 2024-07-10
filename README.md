@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Samarth Sangam</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">Full-stack developer from India</h3>
 
 [comment]: <> (- 🔭 I’m currently working on **Portfolio**)
-
-- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samarth-sangam](https://github.com/samarth-sangam)
 
 - 📁 My portfolio website is now [avaliable](https://samarth-sangam.github.io/). Kindly have a look. More than 10+ hours work is dedicated for the portfolio.
 
-- 💬 Ask me about **React.js, Node.js, Java, Spring Boot**
+- 💬 Ask me about **React.js, Node.js, Java, Spring Boot, MySQL, Gradle**
 
 - 📫 How to reach me **samarthssangam@gmail.com**
 
